@@ -41,22 +41,22 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omer-ozcan&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omer-ozcan&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=omerozcn&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerozcn&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer-ozcan&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerozcn&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://linkedin.com/in/omer-ozcan">
+  <a href="https://www.linkedin.com/in/ozcanomer">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:email@example.com">
+  <a href="omerozcan3808@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
