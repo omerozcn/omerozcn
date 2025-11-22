@@ -65,7 +65,7 @@
 
 ## 📈 Visitor Count
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{omer-ozcan}/count.svg" />
+  <img src="https://profile-counter.glitch.me/{omerozcn}/count.svg" />
 </p>
 
 ---
