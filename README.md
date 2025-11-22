@@ -1,114 +1,53 @@
-<!-- =============== FANCY HEADER =============== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6A00FF&height=220&section=header&text=Ömer%20Özcan&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Cyber%20Security%20%7C%20Full%20Stack%20%7C%20AI%20%26%20ML&descAlignY=60&fontColor=FFFFFF" />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9f&height=200&section=header&text=root@omerozcn:~$&fontSize=32&fontColor=ffffff&animation=fadeIn&desc=Cyber%20Security%20%7C%20Full%20Stack%20%7C%20AI%20%26%20ML&descSize=14&descAlignY=62" /> </p> <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=00FF9F&center=true&vCenter=true&width=500&lines=$+whoami;Ömer+Özcan;Cyber+Security+%26+CTI;Full+Stack+Developer;AI+%2F+ML+Student" /> </h1>
 
-<!-- Animated Typing Title -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+There%2C+I'm+Ömer+👋;Cyber+Security+🔐;Researcher+%26+Engineer;Full+Stack+Developer+🌐;AI+%2F+ML+Enthusiast+🤖" />
-</h1>
+<p align="center"> <img src="https://raw.githubusercontent.com/omerozcn/omerozcn/main/assets/cyber.gif" width="350"/> </p>
 
-<!-- Short badges row -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cyber%20Security-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-.NET%20%7C%20Vue%20%7C%20Python-6A00FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Türkiye-ff4b82?style=for-the-badge" />
-</p>
+🧾 Terminal Log
+┌──(root㉿omerozcn)-[/home]
+└─$ cat about_me.txt
 
----
+> Cyber Security & CTI enthusiast
+> Threat intelligence • log analysis • malware basics
+> Stack: Vue.js + .NET Core + SQL
+> AI/ML projects focused on social data
+> Computer Engineering @ AKÜ
+> Productivity: coffee + dark mode + terminal
 
-<!-- Center GIF -->
-<p align="center">
-  <!-- Buraya kendi cyber GIF'ini koydun, süper duruyor -->
-  <img src="https://raw.githubusercontent.com/omerozcn/omerozcn/main/assets/cyber.gif" width="420" />
-</p>
+💻 Tech Stack
+┌──(root㉿omerozcn)-[/stack]
+└─$ cat languages.txt
 
----
+<p><img src="https://skillicons.dev/icons?i=cs,js,ts,python" /></p>
+┌──(root㉿omerozcn)-[/stack]
+└─$ cat frontend.txt
 
-## 🚀 About Me  
+<p><img src="https://skillicons.dev/icons?i=vue,html,css,tailwind" /></p>
+┌──(root㉿omerozcn)-[/stack]
+└─$ cat backend.txt
 
-- 🌟 **Cyber Security & CTI** ile ilgileniyorum  
-- 🧠 **AI / Machine Learning** projeleri geliştiriyorum  
-- 💻 **Full Stack Developer** → Vue.js + .NET Core  
-- 🎓 **Computer Engineering** @ Afyon Kocatepe University  
-- 🔍 Log analysis, threat intelligence, malware analysis gibi konulara özel ilgi  
-- ☕ Üretkenlik modu: **Kahve + Lo-Fi + Gece modu**  
+<p><img src="https://skillicons.dev/icons?i=dotnet,nodejs,mysql,postgres" /></p>
+┌──(root㉿omerozcn)-[/stack]
+└─$ cat tools.txt
 
----
+<p><img src="https://skillicons.dev/icons?i=linux,git,github,docker,postman" /></p>
 
-## 🛠 Tech Stack
+📊 System Stats
+┌──(root㉿omerozcn)-[/var/log]
+└─$ tail -f system_usage.log
 
-### 💻 Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,js,ts,python,cpp" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=omerozcn&show_icons=true&theme=chartreuse-dark&hide_border=true" height="150" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerozcn&theme=chartreuse-dark&hide_border=true" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerozcn&layout=compact&theme=chartreuse-dark&hide_border=true" height="150" /> </p>
+📈 Activity Graph
+┌──(root㉿omerozcn)-[/var/log]
+└─$ cat activity.log
 
-### 🎨 Frontend  
-<p>
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,html,css,tailwind,bootstrap" />
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=omerozcn&theme=react-dark&hide_border=true&area=true&line=00ff9f&area_color=003300" /> </p>
+🔗 Network Connections
+┌──(root㉿omerozcn)-[/etc]
+└─$ cat contacts.txt
 
-### ⚙ Backend & Databases  
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,mysql,postgres,sqlite,mongodb" />
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/ozcanomer"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:omerozcan3808@gmail.com"> <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF9F" /> </a> <a href="https://github.com/omerozcn"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF9F" /> </a> </p>
+🧮 Visitor Counter
+┌──(root㉿omerozcn)-[/var/www]
+└─$ curl stats
 
-### 🧰 Tools & DevOps  
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,nginx" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <!-- Üst satır: genel stats + streak -->
-  <img src="https://github-readme-stats.vercel.app/api?username=omerozcn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=omerozcn&theme=tokyonight&hide_border=true" height="170" />
-
-  <!-- Alt satır: diller + trophy -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerozcn&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-profile-trophy.vercel.app/?username=omerozcn&theme=onedark&no-frame=true&row=1&column=4" height="150" />
-
-</div>
-
----
-
-## 📈 Activity Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omerozcn&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ozcanomer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:omerozcan3808@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/omerozcn">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🧮 Visitor Count  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omerozcn&style=for-the-badge&color=00D9FF" />
-</p>
-
----
-
-<!-- Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6A00FF&height=120&section=footer" />
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=omerozcn&style=for-the-badge&color=00ff9f" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9f&height=120&section=footer" /> </p>
