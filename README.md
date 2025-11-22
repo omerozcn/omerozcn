@@ -56,7 +56,7 @@
   <a href="https://www.linkedin.com/in/ozcanomer">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="omerozcan3808@gmail.com">
+  <a href="mailto:omerozcan3808@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
@@ -65,7 +65,7 @@
 
 ## 📈 Visitor Count
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{omerozcn}/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=omerozcn&style=flat-square&color=blue" />
 </p>
 
 ---
